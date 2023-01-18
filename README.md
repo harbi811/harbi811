@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ibra Lujumba
 - 👀 I’m interested in Biochemistry, Chemistry and Bioinformatics
-- 🌱 I’m currently pursuing a fellowship with the [Pan African Mosquito Control Association]()
-- 💞️ I’m looking to collaborate on bionformatics projects studying malaria genomics, human genomics as well as cattle genomics
+- 🌱 I’m pursuing a fellowship with the [Pan African Mosquito Control Association]()
+- 💞️ I’m looking to collaborate on bionformatics projects studying malaria genomics, human genomics and cattle genomics
 - 📫 How to reach me ibra.lujumba@gmail
 
 Some of work
