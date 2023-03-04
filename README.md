@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ibra Lujumba
 - 🖤 I’m interested in Biochemistry, Chemistry and Bioinformatics
 - 👷 I’m pursuing a fellowship with the [Pan African Mosquito Control Association](https://www.pamca.org/en) and certification as a [Carpentries](https://carpentries.org/) Instructor
-- 👀 I’m looking to collaborate on bioinformatics projects studying malaria genomics, human genomics and cattle genomics
+- ⌚️ I’m spend my time studying genomes of mosquitoes, human beings and cattle.
 - 📫 **ibra.lujumba@gmail.com**
 
 
