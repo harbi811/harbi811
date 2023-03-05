@@ -10,7 +10,8 @@
 1. **QuasiFlow: a Nextflow pipeline for analysis of NGS-based HIV-1 drug resistance data**
 
     Alfred Ssekagiri, Daudi Jjingo, **Ibra Lujumba**, Nicholas Bbosa, Daniel L Bugembe, David P Kateete, I King Jordan, Pontiano Kaleebu, Deogratius Ssemwanga
-    Bioinformatics Advances, Volume 2, Issue 1, 2022, vbac089, https://doi.org/10.1093/bioadv/vbac089
+    Bioinform Adv. 2022 Nov 28;2(1):vbac089. doi:
+10.1093/bioadv/vbac089. PMID: 36699347; PMCID: PMC9722223..
 
 
 <!---
