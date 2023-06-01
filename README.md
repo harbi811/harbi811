@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ibra Lujumba
-- 🖤 I’m love Bioinformatics and Biochemistry
+- 🖤 I love Bioinformatics and Biochemistry
 - 👷 I’m a fellow with the [Pan African Mosquito Control Association](https://www.pamca.org/en) and certified [Carpentries](https://carpentries.org/) Instructor
 - ⌚️ I study genomes of Anopheline mosquitoes, Homo sapiens and domesticated cattle.
 - 📫 **ibra.lujumba@gmail.com**
