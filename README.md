@@ -7,11 +7,8 @@
 
 **Some of my work** ⚙ 👨‍💻 🤓
 
-1. **QuasiFlow: a Nextflow pipeline for analysis of NGS-based HIV-1 drug resistance data**
-
-    Alfred Ssekagiri, Daudi Jjingo, **Ibra Lujumba**, Nicholas Bbosa, Daniel L Bugembe, David P Kateete, I King Jordan, Pontiano Kaleebu, Deogratius Ssemwanga
-    Bioinform Adv. 2022 Nov 28;2(1):vbac089. doi:
-10.1093/bioadv/vbac089. PMID: 36699347; PMCID: PMC9722223..
+1. Jam, H. Z., Li, Y., DeVito, R., Mousavi, N., Ma, N., **Lujumba, I.**, Adam, Y., Maksimov, M., Huang, B., Dolzhenko, E., Qiu, Y., Kakembo, F. E., Joseph, H., Onyido, B., Adeyemi, J., Bakhtiari, M., Park, J., Javadzadeh, S., Jjingo, D., Adebiyi, E., … Gymrek, M. (2023). **A deep population reference panel of tandem repeat variation.** bioRxiv : the preprint server for biology, 2023.03.09.531600. https://doi.org/10.1101/2023.03.09.531600
+2. Ssekagiri, A., Jjingo, D., **Lujumba, I.**, Bbosa, N., Bugembe, D. L., Kateete, D. P., Jordan, I. K., Kaleebu, P., & Ssemwanga, D. (2022). **QuasiFlow: a Nextflow pipeline for analysis of NGS-based HIV-1 drug resistance data.** Bioinformatics advances, 2(1), vbac089. https://doi.org/10.1093/bioadv/vbac089
 
 
 <!---
